@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "dev": "nodemon aula-ts-07/index.ts"
+    "dev": "nodemon aula-ts-08/index.ts"
   },
   "repository": {
     "type": "git",
